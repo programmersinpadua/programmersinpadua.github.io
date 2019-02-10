@@ -3830,3 +3830,8 @@
 	.calendar {
 		text-align: center;
 	}
+
+	#high_title {
+		color: black;
+		text-align: center;
+	}
